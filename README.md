@@ -1,4 +1,6 @@
-﻿# Group-Actions
+This project has been moved to https://codeberg.org/e2t/group-actions
+ 
+ # Group-Actions
 Макрос для выполнения групповых операций над всеми открытыми документами SolidWorks.
 
 ### Зависимости
